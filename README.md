@@ -1,10 +1,12 @@
-
+<p align="center">
   <img src="Brasão_ufra.png" alt="ufra" width="200"/>
+</p>
 
-<center>
+
+
 # UFRA -> Exercicios BPM LB
-  Coletânea de Exercício para o Laboratório da UFRA - Universidade Federal Rural da Amazônia
-</center>
+Coletânea de Exercício para o Laboratório da UFRA - Universidade Federal Rural da Amazônia
+
 
 # Inciar
 Para iniciar os arquivos, basta ir na pasta desejada no prompt de comando e digitar o nome do arquivo
