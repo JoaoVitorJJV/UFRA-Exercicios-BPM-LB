@@ -1,4 +1,4 @@
-![alt text](Brasão_ufra.png =100x20)
+![](Brasão_ufra.png =250x)
 # UFRA -> Exercicios BPM LB
 Coletânea de Exercício para o Laboratório da UFRA - Universidade Federal Rural da Amazônia
 
