@@ -4,7 +4,7 @@
 
 
 
-# UFRA -> Exercicios BPM LB
+# UFRA - Exercícios BPM LB
 Coletânea de Exercício para o Laboratório da UFRA - Universidade Federal Rural da Amazônia
 
 
